@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "ivan",
+      "age": "26",
+      "email": "ivan@gmail.com",
+      "adress": "Kharkiv, Shevchenko str., 5",
+      "pets": "пантера"
+    },
+    {
+      "id": "6",
+      "name": "Евгений",
+      "age": "11",
+      "email": "PuSSYKILLER999@mail.ru",
+      "adress": "Moscow, Pioner str., 3",
+      "pets": "радскорпион777"
+    }
+  ],
+  "chat": [
+    {
+      "author": "Ivan",
+      "message": "Hello!",
+      "timestamp": "0:18:24",
+      "id": 1
+    },
+    {
+      "author": "Vladimir",
+      "message": "Hy, Ivan",
+      "timestamp": "0:18:37",
+      "id": 2
+    },
+    {
+      "author": "Admin",
+      "message": "Test passed",
+      "timestamp": "0:19:2",
+      "id": 3
+    }
+  ]
+}
